@@ -6,7 +6,7 @@
 The Bare Bones of a Cookie
 
 
-!(/assets/images/cookie numero dos.jpg)
+
 
     <h1>Let's begin!</h1>
       <p>The ingredients you will need are as follows: six eggs, 1/2 of sugar, two cups of flour, one cup of milk.</p>
