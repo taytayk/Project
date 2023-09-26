@@ -1,6 +1,6 @@
 # Recipe of the Day:
 The Bare Bones of a Cookie
-<!DOCTYPE html>
+
 <html>
 <head>
 !(/assets/images/cookie numero dos.jpg)
