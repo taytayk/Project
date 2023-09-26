@@ -1,5 +1,5 @@
 
-!(cookie_numero_dos.jpg)
+<img src="cookie_numero_dos.jpg">
 
 
 # Recipe of the Day:
