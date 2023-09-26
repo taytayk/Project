@@ -3,7 +3,7 @@ The Bare Bones of a Cookie
 <!DOCTYPE html>
 <html>
 <head>
-!(/cookie.jfif)
+!(/cookie numero dos.jpg)
   <body>
     <h1>Let's begin!</h1>
       <p>The ingredients you will need are as following: six eggs, 1/2 of sugar, two cups of flour, one cup of milk.</p>
