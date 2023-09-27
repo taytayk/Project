@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html>
 <img src="cookie_numero_dos.jpg">
 
 
@@ -21,3 +22,4 @@ The Bare Bones of a Cookie
 <h3>Here's a link to our favorite additive to pair with this delicious treat!:
 <p>https://www.instacart.com/landing?product_id=21916258&retailer_id=1487&utm_term=pbi-0&utm_campaign=great-value-semi-sweet-chocolate-chips---24-oz_walmart&utm_source=instacart_google&utm_medium=shopping_free_listing&utm_content=productid-21916258_retailerid=1487&region_id=32209905926</p>
 </h3>
+</html>
