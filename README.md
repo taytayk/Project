@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<img src="cookie_numero_dos.jpg">
+<img src="cookie_numero_dos.jpg">                            <img src="chef.jpg">
 
 
 # Recipe of the Day:
