@@ -3,7 +3,7 @@
 <img src="cookie_numero_dos.jpg">                            
 
 <br>
-# Recipe of the Day:
+Recipe of the Day:
 The Bare Bones of a Cookie
 
 Let's begin!
