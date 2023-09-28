@@ -7,7 +7,7 @@ Recipe of the Day:
 The Bare Bones of a Cookie
 
 Let's begin!
-      <p>The ingredients you will need are as follows: six eggs, 1/2 of sugar, two cups of flour, one cup of milk.</p>
+      <p>The ingredients you will need are as follows: six eggs, half cup of sugar, two cups of flour, one cup of milk.</p>
     <h3> 
       <p>1.) Preheat oven to 370 degrees.</p>
       <p>2.) Add all the <strong>dry</strong> ingredients together, and then all the <strong>wet</strong> ingredients together.</p>
